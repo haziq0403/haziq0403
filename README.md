@@ -1,7 +1,7 @@
-# Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Haziq Danial.
+# Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10">, my name is Haziq Danial.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Green&size=25&center=true&vCenter=true&width=800&height=100&lines=Cybersecurity+Students;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Green&size=20&center=true&vCenter=true&width=800&height=100&lines=Cybersecurity+Students;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <p align="center">
@@ -22,8 +22,6 @@
 <!-- MedSOS -->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 <br><br>
-
  </p>
 </div>
