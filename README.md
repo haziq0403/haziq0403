@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**haziq0403/haziq0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, my name is Haziq Danial.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=Green&size=25&center=true&vCenter=true&width=800&height=100&lines=Cybersecurity+Students;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Comment -->
+
+<!-- GIF -->
+<p align="center">
+<a target="_blank">
+  <img top="500" height="450" width="450" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFuOTR2NDRoMW82czRubjJrNWpneTVndjdrOW9sdTBuYjJzZmVsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
+</a>
+</p>
+
+<!-- MedSOS -->
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<br><br>
+
+ </p>
+</div>
